@@ -1,0 +1,9 @@
+# Personal runtime settings and local backups never belong in the shared skill.
+settings.json
+settings.local.json
+.backups/
+*.bak
+*.tmp
+*.log
+.DS_Store
+Thumbs.db

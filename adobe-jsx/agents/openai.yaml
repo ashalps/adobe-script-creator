@@ -1,0 +1,4 @@
+interface:
+  display_name: "Adobe JSX Scripts"
+  short_description: "Create Adobe scripts and remember your save folders"
+  default_prompt: "Use $adobe-jsx to create a script for [Photoshop, Illustrator, or After Effects] that [describe the task]. Ask for my save location only if this app has none remembered."
